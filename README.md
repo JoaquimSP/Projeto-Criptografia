@@ -1,2 +1,2 @@
 # Projeto-Criptografia
-Trabalho para a disciplina de Segurança de Informação
+Trabalho para a disciplina de Segurança da Informação
